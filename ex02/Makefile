@@ -6,7 +6,7 @@
 #    By: cudoh <cudoh@student.42wolfsburg.de>       +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/04/30 15:08:09 by cudoh             #+#    #+#              #
-#    Updated: 2023/03/11 14:31:19 by cudoh            ###   ########.fr        #
+#    Updated: 2023/03/11 17:35:18 by cudoh            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -14,7 +14,7 @@ SRCS:= main.cpp
 
 OBJS:= $(SRCS:.c=.o)
 
-NAME = iter
+NAME = array
 
 CC = g++
 STD_CPP = c++98
